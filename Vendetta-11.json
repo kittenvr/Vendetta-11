@@ -1,0 +1,98 @@
+{
+    "name": "Windows 11 Darkasdasdasd",
+    "description": "Windows 11, for Discord!",
+    "authors": [
+        {
+            "name": "Dex",
+            "id": "555686162153472000"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#191919"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2b2b2b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2b2b2b"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#191919"
+        ],
+        "KEYBOARD": [
+            "#191919"
+        ],
+        "CHAT_BACKGROUND": [
+            "#191919"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#2b2b2b"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#191919"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2b2b2b"
+        ],
+
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+
+        "INTERACTIVE_ACTIVE": [
+            "#4cc2ff"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#333333"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4cc2ff"
+        ],
+
+
+
+        "BACKGROUND_MENTIONED": [
+            "#333333"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#333333"
+        ],
+        "TEXT_LINK": [
+            "#4cc2ff"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4cc2ff"
+        ],
+
+        "CHANNEL_ICON": [
+            "#fafafa"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#fafafa"
+        ],
+
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#fafafa"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#191919",
+        "PRIMARY_600": "#191919",
+        "PRIMARY_630": "#191919",
+        "PRIMARY_660": "#191919",
+        "PRIMARY_700": "#191919",
+        "PRIMARY_800": "#191919",
+        "BRAND_260": "#4cc2ff",
+        "BRAND_500": "#4cc2ff",
+        "BRAND_900": "#4cc2ff",
+        "GREEN_360": "#4cc2ff",
+        "YELLOW_300": "4cc2ff",
+        "RED_400": "#4cc2ff",
+        "WHITE_500": "#fafafa"
+    },
+    "spec": 2
+}
