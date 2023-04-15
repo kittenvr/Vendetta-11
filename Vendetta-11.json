@@ -44,13 +44,13 @@
         ],
 
         "INTERACTIVE_ACTIVE": [
-            "#4cc2ff"
+            "#ffae00"
         ],
         "INTERACTIVE_HOVER": [
             "#333333"
         ],
         "INTERACTIVE_MUTED": [
-            "#4cc2ff"
+            "#ffae00"
         ],
 
 
@@ -62,10 +62,10 @@
             "#333333"
         ],
         "TEXT_LINK": [
-            "#4cc2ff"
+            "#ffae00"
         ],
         "BACKGROUND_ACCENT": [
-            "#4cc2ff"
+            "#ffae00"
         ],
 
         "CHANNEL_ICON": [
@@ -86,12 +86,12 @@
         "PRIMARY_660": "#191919",
         "PRIMARY_700": "#191919",
         "PRIMARY_800": "#191919",
-        "BRAND_260": "#4cc2ff",
-        "BRAND_500": "#4cc2ff",
-        "BRAND_900": "#4cc2ff",
-        "GREEN_360": "#4cc2ff",
-        "YELLOW_300": "4cc2ff",
-        "RED_400": "#4cc2ff",
+        "BRAND_260": "#ffae00",
+        "BRAND_500": "#ffae00",
+        "BRAND_900": "#ffae00",
+        "GREEN_360": "#ffae00",
+        "YELLOW_300": "ffae00",
+        "RED_400": "#ffae00",
         "WHITE_500": "#fafafa"
     },
     "spec": 2
